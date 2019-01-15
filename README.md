@@ -2,7 +2,7 @@
 
 This is a app using vue js, basically is a TODO list.
 
-[Image](imgAPP.jpeg)
+![Image](https://github.com/matheusfrancisco/Todo-app/blob/master/imgAPP.jpeg)
 
 ## Project setup
 ```
