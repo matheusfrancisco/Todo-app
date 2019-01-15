@@ -1,4 +1,8 @@
-# vue_todolist
+# TODO App using VueJS
+
+This is a app using vue js, basically is a TODO list.
+
+[Image](imgAPP.jpeg)
 
 ## Project setup
 ```
